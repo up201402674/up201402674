@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning about AI powered assistance code tools
+
 <!--
 **up201402674/up201402674** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
